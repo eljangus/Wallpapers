@@ -8,5 +8,5 @@
 ![4](Walls/Herbstwald.png)
 ![5](Walls/Kirschstrauch.png)
 ![6](Walls/Drache-Animiert.gif)
-![7](Walls/Stadt-Animiert.git)
+![7](Walls/Stadt-Animiert.gif)
 ![8](Walls/Sternensystem.png)
